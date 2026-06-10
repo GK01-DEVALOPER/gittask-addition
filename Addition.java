@@ -4,5 +4,6 @@ public class Addition{
 		int num2 = 5;
 		int sum =num1 + num2;
 		System.out.println("the sum is:" +sum);
+		System.out.println("the product is:" *prod);
 	}
 }
